@@ -1,7 +1,7 @@
 <tube>
     <stations>
 		<station name="Acton Town" code="ACT" latitude="51.5025" longitude="-0.278126" />
-		<station name="Aldgate" code="ALD" clatitude="51.51394" longitude="-0.07537" />
+		<station name="Aldgate" code="ALD" latitude="51.51394" longitude="-0.07537" />
 		<station name="Aldgate East" code="ALE" latitude="51.51514" longitude="-0.07178" />
 		<station name="Alperton" code="ALP" latitude="51.54097" longitude="-0.30061" />
 		<station name="Amersham" code="AME" latitude="51.67435" longitude="-0.60732" />
