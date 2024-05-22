@@ -1,0 +1,698 @@
+<tube>
+    <stations>
+		<station name="Acton Town" code="ACT" latitude="51.5025" longitude="-0.278126" />
+		<station name="Aldgate" code="ALD" clatitude="51.51394" longitude="-0.07537" />
+		<station name="Aldgate East" code="ALE" latitude="51.51514" longitude="-0.07178" />
+		<station name="Alperton" code="ALP" latitude="51.54097" longitude="-0.30061" />
+		<station name="Amersham" code="AME" latitude="51.67435" longitude="-0.60732" />
+		<station name="Angel" code="AGL" latitude="51.53253" longitude="-0.10579" />
+		<station name="Archway" code="ACY" latitude="51.56536" longitude="-0.13474" />
+		<station name="Arnos Grove" code="ASG" latitude="51.61625" longitude="-0.13355" />
+		<station name="Arsenal" code="ASL" latitude="51.55847" longitude="-0.10561" />
+		<station name="Baker Street" code="BAS" latitude="51.52265" longitude="-0.15704" />
+		<station name="Balham" code="BLM" latitude="51.44344113" longitude="-0.152945844" />
+		<station name="Bank" code="BAN" latitude="51.5134047" longitude="-0.08905843" />
+		<station name="Barbican" code="BAB" latitude="51.520865" longitude="-0.097758" />
+		<station name="Barking" code="BAG" latitude="51.54079" longitude="0.08018" />
+		<station name="Barkingside" code="BAR" latitude="51.58543" longitude="0.08854" />
+		<station name="Barons Court" code="BAC" latitude="51.490281" longitude="-0.21434" />
+		<station name="Battersea Power Station" code="BAT" latitude="51.4795" longitude="-0.142" />
+		<station name="Bayswater" code="BAY" latitude="51.51224" longitude="-0.187569" />
+		<station name="Becontree" code="BEC" latitude="51.54029" longitude="0.1262" />
+		<station name="Belsize Park" code="BZP" latitude="51.55036" longitude="-0.16465" />
+		<station name="Bermondsey" code="BMY" latitude="51.49813" longitude="-0.0635" />
+		<station name="Bethnal Green" code="BEG" latitude="51.52718" longitude="-0.05504" />
+		<station name="Blackfriars" code="BLA" latitude="51.5114403" longitude="-0.1041905" />
+		<station name="Blackhorse Road" code="BLR" latitude="51.58698" longitude="-0.04104" />
+		<station name="Bond Street" code="BOS" latitude="51.51461" longitude="-0.14897" />
+		<station name="Borough" code="BOH" latitude="51.50095" longitude="-0.09446" />
+		<station name="Boston Manor" code="BOM" latitude="51.495371" longitude="-0.325573" />
+		<station name="Bounds Green" code="BOG" latitude="51.607" longitude="-0.12418" />
+		<station name="Bow Road" code="BWR" latitude="51.52709" longitude="-0.02482" />
+		<station name="Brent Cross" code="BTX" latitude="51.57693" longitude="-0.21414" />
+		<station name="Brixton" code="BRI" latitude="51.46239" longitude="-0.115421" />
+		<station name="Bromley-by-Bow" code="BBB" latitude="51.52466" longitude="-0.01282" />
+		<station name="Buckhurst Hill" code="BUH" latitude="51.62611" longitude="0.04705" />
+		<station name="Burnt Oak" code="BTK" latitude="51.603" longitude="-0.26427" />
+		<station name="Caledonian Road" code="CAR" latitude="51.5485" longitude="-0.11802" />
+		<station name="Camden Town" code="CTN" latitude="51.5393" longitude="-0.14316" />
+		<station name="Canada Water" code="CWR" latitude="51.49787" longitude="-0.04967" />
+		<station name="Canary Wharf" code="CYF" latitude="51.50362" longitude="-0.01987" />
+		<station name="Canning Town" code="CGT" latitude="51.514" longitude="0.0083" />
+        <station name="Cannon Street" code="CAS" latitude="51.51141" longitude="-0.09047" />
+		<station name="Canons Park" code="CPK" latitude="51.6081" longitude="-0.29487" />
+		<station name="Chalfont and Latimer" code="CAL" latitude="51.66822" longitude="-0.56053" />
+		<station name="Chalk Farm" code="CFM" latitude="51.5439" longitude="-0.15384" />
+		<station name="Chancery Lane" code="CHL" latitude="51.51836" longitude="-0.11115" />
+		<station name="Charing Cross" code="CHC" latitude="51.507108" longitude="-0.122963" />
+		<station name="Chesham" code="CHE" latitude="51.70522733" longitude="-0.610986426" />
+		<station name="Chigwell" code="CHI" latitude="51.61795" longitude="0.07511" />
+		<station name="Chiswick Park" code="CHP" latitude="51.49466" longitude="-0.26866" />
+		<station name="Chorleywood" code="CHO" latitude="51.65429872" longitude="-0.518373353" />
+		<station name="Clapham Common" code="CPC" latitude="51.46156" longitude="-0.13802" />
+		<station name="Clapham North" code="CPN" latitude="51.46522" longitude="-0.1295" />
+		<station name="Clapham South" code="CPS" latitude="51.45292257" longitude="-0.147562148" />
+		<station name="Cockfosters" code="CKS" latitude="51.65117" longitude="-0.14811" />
+		<station name="Colindale" code="CND" latitude="51.59556" longitude="-0.24996" />
+		<station name="Colliers Wood" code="CSD" latitude="51.41823649" longitude="-0.17800983" />
+		<station name="Covent Garden" code="CGN" latitude="51.51308" longitude="-0.12427" />
+		<station name="Croxley" code="CRO" latitude="51.64733268" longitude="-0.441479115" />
+		<station name="Dagenham East" code="DHE" latitude="51.54396" longitude="0.16439" />
+		<station name="Dagenham Heathway" code="DAH" latitude="51.54173" longitude="0.14543" />
+		<station name="Debden" code="DEB" latitude="51.64535" longitude="0.08364" />
+		<station name="Dollis Hill" code="DOH" latitude="51.5525" longitude="-0.23884" />
+		<station name="Ealing Broadway" code="EAB" latitude="51.51482" longitude="-0.30118" />
+		<station name="Ealing Common" code="ECO" latitude="51.50997" longitude="-0.28825" />
+		<station name="Earl's Court" code="EAC" latitude="51.491521" longitude="-0.193906" />
+		<station name="East Acton" code="EAA" latitude="51.51753" longitude="-0.24827" />
+		<station name="East Finchley" code="EFY" latitude="51.58729747" longitude="-0.164956323" />
+		<station name="East Ham" code="EAH" latitude="51.53931" longitude="0.0526" />
+		<station name="East Putney" code="EAP" latitude="51.459015" longitude="-0.211138" />
+		<station name="Eastcote" code="EAS" latitude="51.57676" longitude="-0.39629" />
+		<station name="Edgware" code="EGW" latitude="51.61385" longitude="-0.27515" />
+		<station name="Edgware Road (Bakerloo Line)" code="ERB" latitude="51.51956" longitude="-0.169068" />
+		<station name="Edgware Road (Circle Line)" code="ERD" latitude="51.520195" longitude="-0.166986" />
+		<station name="Elephant and Castle" code="ELC" latitude="51.49467" longitude="-0.10047" />
+		<station name="Elm Park" code="ELP" latitude="51.54969" longitude="0.19779" />
+		<station name="Embankment" code="EMB" latitude="51.50717" longitude="-0.12195" />
+		<station name="Epping" code="EPP" latitude="51.69365" longitude="0.11495" />
+		<station name="Euston" code="EUS" latitude="51.52774" longitude="-0.13303" />
+		<station name="Euston Square" code="ESQ" latitude="51.52584" longitude="-0.1357" />
+		<station name="Fairlop" code="FAI" latitude="51.59634" longitude="0.09125" />
+		<station name="Farringdon" code="FAR" latitude="51.52036295" longitude="-0.105126482" />
+		<station name="Finchley Central" code="FYC" latitude="51.60102" longitude="-0.1924" />
+		<station name="Finchley Road" code="FIR" latitude="51.546701" longitude="-0.179867" />
+		<station name="Finsbury Park" code="FIP" latitude="51.56498" longitude="-0.10543" />
+		<station name="Fulham Broadway" code="FUB" latitude="51.48033" longitude="-0.19488" />
+		<station name="Gants Hill" code="GAH" latitude="51.57649" longitude="0.06637" />
+		<station name="Gloucester Road" code="GLR" latitude="51.49408266" longitude="-0.17295341" />
+		<station name="Golders Green" code="GGN" latitude="51.57249" longitude="-0.1941" />
+		<station name="Goldhawk Road" code="GOR" latitude="51.501248" longitude="-0.226776" />
+		<station name="Goodge Street" code="GDG" latitude="51.5206" longitude="-0.13441" />
+		<station name="Grange Hill" code="GRH" latitude="51.61326" longitude="0.09258" />
+		<station name="Great Portland Street" code="GPS" latitude="51.52391" longitude="-0.14397" />
+        <station name="Green Park" code="GRP" latitude="51.50674" longitude="-0.14276" />
+		<station name="Greenford" code="GRE" latitude="51.542346" longitude="-0.345903" />
+		<station name="Gunnersbury" code="GUN" latitude="51.49126844" longitude="-0.275554312" />
+		<station name="Hainault" code="HAI" latitude="51.60288" longitude="0.09332" />
+		<station name="Hammersmith (Circle Line)" code="HMS" latitude="51.49419075" longitude="-0.225964953" />
+		<station name="Hammersmith (District Line)" code="HMD" latitude="51.492328" longitude="-0.222825" />
+		<station name="Hampstead" code="HTD" latitude="51.55645" longitude="-0.17851" />
+		<station name="Hanger Lane" code="HAL" latitude="51.53" longitude="-0.2929" />
+		<station name="Harlesden" code="HSN" latitude="51.53628278" longitude="-0.257622488" />
+		<station name="Harrow and Wealdstone" code="HAW" latitude="51.59205973" longitude="-0.334725352" />
+		<station name="Harrow-on-the-Hill" code="HOH" latitude="51.579335" longitude="-0.337052" />
+		<station name="Hatton Cross" code="HNX" latitude="51.466988" longitude="-0.423035" />
+		<station name="Heathrow Terminals 1-2-3" code="HRC" latitude="51.4712899" longitude="-0.4527438" />
+		<station name="Heathrow Terminal 4" code="HIV" latitude="51.4594777" longitude="-0.44689658" />
+		<station name="Heathrow Terminal 5" code="HRV" latitude="51.4723" longitude="-0.488" />
+		<station name="Hendon Central" code="HCL" latitude="51.58346" longitude="-0.22653" />
+		<station name="High Barnet" code="HBT" latitude="51.6506519" longitude="-0.194138166" />
+		<station name="High Street Kensington" code="HSK" latitude="51.50034591" longitude="-0.192351664" />
+		<station name="Highbury and Islington" code="HII" latitude="51.54502" longitude="-0.10752" />
+		<station name="Highgate" code="HGT" latitude="51.57722" longitude="-0.14553" />
+		<station name="Hillingdon" code="HIL" latitude="51.55364" longitude="-0.45062" />
+		<station name="Holborn" code="HOL" latitude="51.51711" longitude="-0.12055" />
+		<station name="Holland Park" code="HOP" latitude="51.50722" longitude="-0.20553" />
+		<station name="Holloway Road" code="HWY" latitude="51.5529" longitude="-0.11278" />
+		<station name="Hornchurch" code="HOR" latitude="51.55387" longitude="0.21797" />
+		<station name="Hounslow Central" code="HWC" latitude="51.47129" longitude="-0.365853" />
+		<station name="Hounslow East" code="HWE" latitude="51.47354" longitude="-0.356" />
+		<station name="Hounslow West" code="HWW" latitude="51.473689" longitude="-0.386471" />
+		<station name="Hyde Park Corner" code="HPC" latitude="51.50313" longitude="-0.15278" />
+		<station name="Ickenham" code="ICK" latitude="51.56147" longitude="-0.44257" />
+		<station name="Kennington" code="KNG" latitude="51.48823" longitude="-0.10587" />
+		<station name="Kensal Green" code="KSL" latitude="51.53060655" longitude="-0.224253545" />
+		<station name="Kensington (Olympia)" code="OLY" latitude="51.49675" longitude="-0.20931" />
+		<station name="Kentish Town" code="KSH" latitude="51.55046" longitude="-0.14067" />
+		<station name="Kenton" code="KNT" latitude="51.58173809" longitude="-0.316870809" />
+		<station name="Kew Gardens" code="KWG" latitude="51.47725641" longitude="-0.284980014" />
+		<station name="Kilburn" code="KBN" latitude="51.5471715" longitude="-0.205002" />
+		<station name="Kilburn Park" code="KIP" latitude="51.53495818" longitude="-0.193963023" />
+		<station name="King's Cross St.Pancras" code="KIC" latitude="51.53057" longitude="-0.12399" />
+		<station name="Kingsbury" code="KBY" latitude="51.58422" longitude="-0.2788" />
+		<station name="Knightsbridge" code="KNB" latitude="51.50169" longitude="-0.1603" />
+		<station name="Ladbroke Grove" code="LAD" latitude="51.5173" longitude="-0.21114" />
+		<station name="Lambeth North" code="LAN" latitude="51.49894" longitude="-0.11216" />
+		<station name="Lancaster Gate" code="LAG" latitude="51.512083" longitude="-0.175067" />
+		<station name="Latimer Road" code="LAR" latitude="51.513125" longitude="-0.218428" />
+		<station name="Leicester Square" code="LSQ" latitude="51.51148" longitude="-0.12849" />
+		<station name="Leyton" code="LEY" latitude="51.556483" longitude="-0.005669" />
+		<station name="Leytonstone" code="LES" latitude="51.56828" longitude="0.00739" />
+		<station name="Liverpool Street" code="LIS" latitude="51.517675" longitude="-0.082458" />
+		<station name="London Bridge" code="LNB" latitude="51.505353" longitude="-0.084826" />
+		<station name="Loughton" code="LOU" latitude="51.6417" longitude="0.05583" />
+		<station name="Maida Vale" code="MAV" latitude="51.52989409" longitude="-0.185888819" />
+		<station name="Manor House" code="MRH" latitude="51.57038" longitude="-0.09601" />
+		<station name="Mansion House" code="MAH" latitude="51.51256" longitude="-0.09397" />
+		<station name="Marble Arch" code="MAA" latitude="51.513597" longitude="-0.15869195" />
+		<station name="Marylebone" code="MAR" latitude="51.52266" longitude="-0.162996" />
+		<station name="Mile End" code="MIE" latitude="51.525306" longitude="-0.033471" />
+		<station name="Mill Hill East" code="MHL" latitude="51.60892" longitude="-0.20965" />
+		<station name="Monument" code="MON" latitude="51.510165" longitude="-0.085991" />
+		<station name="Moor Park" code="MOP" latitude="51.62970512" longitude="-0.432070848" />
+		<station name="Moorgate" code="MOO" latitude="51.51817" longitude="-0.08859" />
+		<station name="Morden" code="MDN" latitude="51.40222413" longitude="-0.194599126" />
+		<station name="Mornington Crescent" code="MTC" latitude="51.53427" longitude="-0.13901" />
+		<station name="Neasden" code="NDN" latitude="51.55427" longitude="-0.25042" />
+		<station name="Newbury Park" code="NEP" latitude="51.57565" longitude="0.08927" />
+		<station name="Nine Elms" code="NIE" latitude="51.48" longitude="-0.12846" />
+		<station name="North Acton" code="NOA" latitude="51.5237" longitude="-0.26019" />
+		<station name="North Ealing" code="NOE" latitude="51.51807" longitude="-0.28838" />
+		<station name="North Greenwich" code="NGW" latitude="51.50056" longitude="0.0036" />
+		<station name="North Harrow" code="NHA" latitude="51.58503612" longitude="-0.362595264" />
+		<station name="North Wembley" code="NWY" latitude="51.56258091" longitude="-0.304072648" />
+		<station name="Northfields" code="NFD" latitude="51.499856" longitude="-0.313188" />
+		<station name="Northolt" code="NOR" latitude="51.548054" longitude="-0.368257" />
+		<station name="Northwick Park" code="NOP" latitude="51.57850117" longitude="-0.317857023" />
+		<station name="Northwood" code="NOD" latitude="51.61098984" longitude="-0.423584422" />
+		<station name="Northwood Hills" code="HOH" latitude="51.60043795" longitude="-0.408812575" />
+		<station name="Notting Hill Gate" code="NHG" latitude="51.509028" longitude="-0.1962847" />
+		<station name="Oakwood" code="OAK" latitude="51.64739" longitude="-0.13192" />
+		<station name="Old Street" code="ODS" latitude="51.52618" longitude="-0.08751" />
+		<station name="Osterley" code="OSY" latitude="51.481569" longitude="-0.35196" />
+		<station name="Oval" code="OVL" latitude="51.48214" longitude="-0.11284" />
+		<station name="Oxford Circus" code="OXC" latitude="51.51517" longitude="-0.14119" />
+		<station name="Paddington (Bishops Road)" code="PAC" latitude="51.51518466" longitude="-0.175538808" />
+		<station name="Paddington (Praed Street)" code="PAD" latitude="51.51909671" longitude="-0.176968859" />
+		<station name="Park Royal" code="PKR" latitude="51.52671" longitude="-0.28417" />
+		<station name="Parsons Green" code="PAG" latitude="51.47488" longitude="-0.20205" />
+		<station name="Perivale" code="PER" latitude="51.536673" longitude="-0.32391" />
+		<station name="Piccadilly Circus" code="PIC" latitude="51.51022" longitude="-0.13392" />
+		<station name="Pimlico" code="PIM" latitude="51.489081" longitude="-0.133037" />
+		<station name="Pinner" code="PIN" latitude="51.59270271" longitude="-0.380539158" />
+		<station name="Plaistow" code="PLA" latitude="51.53122" longitude="0.01659" />
+		<station name="Preston Road" code="PRR" latitude="51.57229051" longitude="-0.295813875" />
+		<station name="Putney Bridge" code="PUB" latitude="51.46868" longitude="-0.2088141" />
+		<station name="Queen's Park" code="QUP" latitude="51.534179" longitude="-0.205257721" />
+		<station name="Queensbury" code="QBY" latitude="51.59437" longitude="-0.28655" />
+		<station name="Queensway" code="QUE" latitude="51.510484" longitude="-0.18705" />
+		<station name="Ravenscourt Park" code="RAP" latitude="51.49419" longitude="-0.2356" />
+		<station name="Rayners Lane" code="RAL" latitude="51.57534" longitude="-0.3724" />
+		<station name="Redbridge" code="RED" latitude="51.57618" longitude="0.04542" />
+		<station name="Regent's Park" code="REP" latitude="51.52344" longitude="-0.14713" />
+		<station name="Richmond" code="RMD" latitude="51.46343247" longitude="-0.302033247" />
+		<station name="Rickmansworth" code="RIH" latitude="51.64027898" longitude="-0.473521454" />
+		<station name="Roding Valley" code="ROV" latitude="51.61691" longitude="0.04264" />
+		<station name="Royal Oak" code="ROO" latitude="51.519383" longitude="-0.187785" />
+		<station name="Ruislip" code="RUI" latitude="51.57146" longitude="-0.42157" />
+		<station name="Ruislip Gardens" code="RUG" latitude="51.560711" longitude="-0.410587" />
+		<station name="Ruislip Manor" code="RUM" latitude="51.57349" longitude="-0.41185" />
+		<station name="Russell Square" code="RSQ" latitude="51.523243" longitude="-0.124336" />
+		<station name="St.James's Park" code="SJP" latitude="51.49971" longitude="-0.13394" />
+		<station name="Seven Sisters" code="SES" latitude="51.58318" longitude="-0.07495" />
+		<station name="Shepherd's Bush" code="SHB" latitude="51.50474" longitude="-0.21881" />
+		<station name="Shepherd's Bush Market" code="SBM" latitude="51.506063" longitude="-0.226231" />
+		<station name="Sloane Square" code="SLS" latitude="51.49258474" longitude="-0.156090904" />
+		<station name="Snaresbrook" code="SNA" latitude="51.58002" longitude="0.02133" />
+		<station name="South Ealing" code="SOE" latitude="51.500801" longitude="-0.307856" />
+		<station name="South Harrow" code="SHH" latitude="51.56461" longitude="-0.3521" />
+		<station name="South Kensington" code="SOK" latitude="51.494066" longitude="-0.172791" />
+		<station name="South Kenton" code="SKT" latitude="51.57044666" longitude="-0.308566354" />
+		<station name="South Ruislip" code="SOR" latitude="51.556795" longitude="-0.398708" />
+		<station name="South Wimbledon" code="SWN" latitude="51.41543048" longitude="-0.192262754" />
+		<station name="South Woodford" code="SOW" latitude="51.59088" longitude="0.02726" />
+		<station name="Southfields" code="SOU" latitude="51.444941" longitude="-0.206466" />
+		<station name="Southgate" code="SGT" latitude="51.6324" longitude="-0.12765" />
+		<station name="Southwark" code="SWK" latitude="51.50384" longitude="-0.10478" />
+		<station name="St.John's Wood" code="SJW" latitude="51.53472" longitude="-0.17428" />
+		<station name="St.Paul's" code="STP" latitude="51.515285" longitude="-0.097598" />
+		<station name="Stamford Brook" code="STB" latitude="51.494935" longitude="-0.24619" />
+		<station name="Stanmore" code="STM" latitude="51.61895" longitude="-0.30241" />
+		<station name="Stepney Green" code="STG" latitude="51.521884" longitude="-0.046546" />
+		<station name="Stockwell" code="STO" latitude="51.47224" longitude="-0.1227" />
+		<station name="Stonebridge Park" code="SBG" latitude="51.54402388" longitude="-0.275978856" />
+		<station name="Stratford" code="STR" latitude="51.541208" longitude="-0.003776" />
+		<station name="Sudbury Hill" code="SUH" latitude="51.556998" longitude="-0.335949" />
+		<station name="Sudbury Town" code="SUT" latitude="51.55093" longitude="-0.31598" />
+		<station name="Swiss Cottage" code="SWC" latitude="51.54333" longitude="-0.17436" />
+		<station name="Temple" code="TEM" latitude="51.51114" longitude="-0.11341" />
+		<station name="Theydon Bois" code="THB" latitude="51.67246" longitude="0.10354" />
+		<station name="Tooting Bec" code="TBC" latitude="51.43578971" longitude="-0.159635693" />
+		<station name="Tooting Broadway" code="TBY" latitude="51.42780008" longitude="-0.167910811" />
+		<station name="Tottenham Court Road" code="TCR" latitude="51.5164" longitude="-0.13027" />
+		<station name="Tottenham Hale" code="THA" latitude="51.588878" longitude="-0.059808" />
+		<station name="Totteridge and Whetstone" code="TOT" latitude="51.63022" longitude="-0.17917" />
+		<station name="Tower Hill" code="TOH" latitude="51.50991" longitude="-0.076813" />
+		<station name="Tufnell Park" code="TFP" latitude="51.55663" longitude="-0.13813" />
+		<station name="Turnham Green" code="TUG" latitude="51.495143" longitude="-0.25406" />
+		<station name="Turnpike Lane" code="TPN" latitude="51.59031" longitude="-0.10308" />
+		<station name="Upminster" code="UPM" latitude="51.55925" longitude="0.25177" />
+		<station name="Upminster Bridge" code="UPB" latitude="51.55847" longitude="0.23509" />
+		<station name="Upney" code="UPN" latitude="51.53824" longitude="0.09998" />
+		<station name="Upton Park" code="UPP" latitude="51.53514" longitude="0.03373" />
+		<station name="Uxbridge" code="UXB" latitude="51.54687" longitude="-0.47725" />
+		<station name="Vauxhall" code="VAU" latitude="51.48603" longitude="-0.12369" />
+		<station name="Victoria" code="VIC" latitude="51.49662869" longitude="-0.14400853" />
+		<station name="Walthamstow Central" code="WAC" latitude="51.58293" longitude="-0.01996" />
+		<station name="Wanstead" code="WAN" latitude="51.57565" longitude="0.02864" />
+		<station name="Warren Street" code="WAS" latitude="51.5245" longitude="-0.1381" />
+		<station name="Warwick Avenue" code="WAA" latitude="51.52329728" longitude="-0.183777837" />
+		<station name="Waterloo" code="WAT" latitude="51.50322" longitude="-0.11328" />
+		<station name="Watford" code="WAF" latitude="51.65741058" longitude="-0.41745306" />
+		<station name="Wembley Central" code="WYC" latitude="51.55122817" longitude="-0.29577538" />
+		<station name="Wembley Park" code="WEP" latitude="51.56355598" longitude="-0.279770242" />
+		<station name="West Acton" code="WEA" latitude="51.51818" longitude="-0.28064" />
+		<station name="West Brompton" code="WEB" latitude="51.48681" longitude="-0.19475" />
+		<station name="West Finchley" code="WFN" latitude="51.60922281" longitude="-0.188711152" />
+		<station name="West Ham" code="WHA" latitude="51.527917" longitude="0.004141" />
+		<station name="West Hampstead" code="WHP" latitude="51.54678865" longitude="-0.191016868" />
+		<station name="West Harrow" code="WSH" latitude="51.5795432" longitude="-0.353144584" />
+		<station name="West Kensington" code="WEK" latitude="51.49085" longitude="-0.20532" />
+		<station name="West Ruislip" code="WER" latitude="51.569324" longitude="-0.43674" />
+		<station name="Westbourne Park" code="WSP" latitude="51.520995" longitude="-0.201778" />
+		<station name="Westminster" code="WES" latitude="51.50121" longitude="-0.12489" />
+		<station name="White City" code="WHC" latitude="51.512206" longitude="-0.224226" />
+		<station name="Whitechapel" code="WHI" latitude="51.51946" longitude="-0.05951" />
+		<station name="Willesden Green" code="WIG" latitude="51.54919" longitude="-0.22106" />
+		<station name="Willesden Junction" code="WJN" latitude="51.53181" longitude="-0.24235" />
+		<station name="Wimbledon" code="WIM" latitude="51.422" longitude="-0.20544" />
+		<station name="Wimbledon Park" code="WIP" latitude="51.43391" longitude="-0.19864" />
+		<station name="Wood Green" code="WOG" latitude="51.59709" longitude="-0.10939" />
+		<station name="Wood Lane" code="WOL" latitude="51.509797" longitude="-0.224167" />
+        <station name="Woodford" code="WOO" latitude="51.60582" longitude="0.03328" />
+		<station name="Woodside Park" code="WOP" latitude="51.61817173" longitude="-0.185578888" />
+    </stations>
+    <lines>
+        <line name="Bakerloo" colour="brown" level="deep">
+            <way from="HAW" to="KNT" />
+            <way from="KNT" to="SKT" />
+            <way from="SKT" to="NWY" />
+            <way from="NWY" to="WYC" />
+            <way from="WYC" to="SBG" />
+            <way from="SBG" to="HSN" />
+            <way from="HSN" to="WJN" />
+            <way from="WJN" to="KSL" />
+            <way from="KSL" to="QUP" />
+            <way from="QUP" to="KIP" />
+            <way from="KIP" to="MAV" />
+            <way from="MAV" to="WAA" />
+            <way from="WAA" to="PAD" />
+            <way from="PAD" to="ERB" />
+            <way from="ERB" to="MAR" />
+            <way from="MAR" to="BAS" />
+            <way from="BAS" to="REP" />
+            <way from="REP" to="OXC" />
+            <way from="OXC" to="PIC" />
+            <way from="PIC" to="CHC" />
+            <way from="CHC" to="EMB" />
+            <way from="EMB" to="WAT" />
+            <way from="WAT" to="LAN" />
+            <way from="LAN" to="ELC" />
+        </line>
+        <line name="Central" colour="red" level="deep">
+            <!-- West Ruislip Branch -->
+            <way from="WER" to="RUG" />
+            <way from="RUG" to="SOR" />
+            <way from="SOR" to="NOR" />
+            <way from="NOR" to="GRE" />
+            <way from="GRE" to="PER" />
+            <way from="PER" to="HAL" />
+            <way from="HAL" to="NOA" />
+            <!-- Ealing Bradway Branch -->
+            <way from="EAB" to="WEA" />
+            <way from="WEA" to="NOA" />
+            <!-- Core (North Acton to Leytonstone) -->
+            <way from="NOA" to="EAA" />
+            <way from="EAA" to="WHC" />
+            <way from="WHC" to="SHB" />
+            <way from="SHB" to="HOP" />
+            <way from="HOP" to="QUE" />
+            <way from="QUE" to="LAG" />
+            <way from="LAG" to="MAA" />
+            <way from="MAA" to="BOS" />
+            <way from="BOS" to="OXC" />
+            <way from="OXC" to="TCR" />
+            <way from="TCR" to="HOL" />
+            <way from="HOL" to="CHL" />
+            <way from="CHL" to="STP" />
+            <way from="STP" to="BAN" />
+            <way from="BAN" to="LIS" />
+            <way from="LIS" to="BEG" />
+            <way from="BEG" to="MIE" />
+            <way from="MIE" to="STR" />
+            <way from="STR" to="LEY" />
+            <way from="LEY" to="LES" />
+            <!-- Epping via Woodford -->
+            <way from="LES" to="SNA" />
+            <way from="SNA" to="SOW" />
+            <way from="SOW" to="WOO" />
+            <way from="WOO" to="BUH" />
+            <way from="BUH" to="LOU" />
+            <way from="LOU" to="DEB" />
+            <way from="DEB" to="THB" />
+            <way from="THB" to="EPP" />
+            <!-- Woodford via Newbury Park -->
+            <way from="LES" to="WAN" />
+            <way from="WAN" to="REB" />
+            <way from="REB" to="GAH" />
+            <way from="GAH" to="NEP" />
+            <way from="NEP" to="BAR" />
+            <way from="BAR" to="FAI" />
+            <way from="FAI" to="HAI" />
+            <way from="HAI" to="GAH" />
+            <way from="GAH" to="CHI" />
+            <way from="CHI" to="ROV" />
+            <way from="ROV" to="WOO" />
+        </line>
+        <line name="Circle" colour="yellow" level="sub-surface">
+            <way from="HMS" to="GOR" />
+            <way from="GOR" to="SBM" />
+            <way from="SBM" to="WOL" />
+            <way from="WOL" to="LAR" />
+            <way from="LAR" to="LAD" />
+            <way from="LAD" to="WSP" />
+            <way from="WSP" to="ROO" />
+            <way from="ROO" to="PAC" />
+            <way from="PAC" to="ERD" />
+            <way from="ERD" to="BAS" />
+            <way from="BAS" to="GPS" />
+            <way from="GPS" to="ESQ" />
+            <way from="ESQ" to="KIC" />
+            <way from="KIC" to="FAR" />
+            <way from="FAR" to="BAB" />
+            <way from="BAB" to="MOO" />
+            <way from="MOO" to="LIS" />
+            <way from="LIS" to="ALD" />
+            <way from="ALD" to="TOH" />
+            <way from="TOH" to="MON" />
+            <way from="MON" to="CAS" />
+            <way from="CAS" to="MAH" />
+            <way from="MAH" to="BLA" />
+            <way from="BLA" to="TEM" />
+            <way from="TEM" to="EMB" />
+            <way from="EMB" to="SJP" />
+            <way from="SJP" to="VIC" />
+            <way from="VIC" to="SLS" />
+            <way from="SLS" to="SOK" />
+            <way from="SOK" to="GLR" />
+            <way from="GLR" to="HSK" />
+            <way from="HSK" to="NHG" />
+            <way from="NHG" to="BAY" />
+            <way from="BAY" to="PAD" />
+            <way from="PAD" to="ERD" />
+        </line>
+        <line name="District" colour="green" level="sub-surface">
+            <!-- Ealing Broadway Branch -->
+            <way from="EAB" to="ECO" />
+            <way from="ECO" to="ACT" />
+            <way from="ACT" to="CHP" />
+            <way from="CHP" to="TUG" />
+            <!-- Richmond Branch -->
+            <way from="RMD" to="KWG" />
+            <way from="KWG" to="GUN" />
+            <way from="GUN" to="TUG" />
+            <!-- Core (Turnham Green to Upminster) -->
+            <way from="TUG" to="STB" />
+            <way from="STB" to="RAP" />
+            <way from="RAP" to="HMD" />
+            <way from="HMD" to="BAC" />
+            <way from="BAC" to="WEK" />
+            <way from="WEK" to="EAC" />
+            <way from="EAC" to="GLR" />
+            <way from="GLR" to="SOK" />
+            <way from="SOK" to="SLS" />
+            <way from="SLS" to="VIC" />
+            <way from="VIC" to="SJP" />
+            <way from="SJP" to="EMB" />
+            <way from="EMB" to="TEM" />
+            <way from="TEM" to="BLA" />
+            <way from="BLA" to="MAH" />
+            <way from="MAH" to="CAS" />
+            <way from="CAS" to="MON" />
+            <way from="MON" to="TOH" />
+            <way from="TOH" to="ALE" />
+            <way from="ALE" to="WHI" />
+            <way from="WHI" to="STG" />
+            <way from="STG" to="MIE" />
+            <way from="MIE" to="BWR" />
+            <way from="BWR" to="BBB" />
+            <way from="BBB" to="WHA" />
+            <way from="WHA" to="PLA" />
+            <way from="PLA" to="UPP" />
+            <way from="UPP" to="EAH" />
+            <way from="EAH" to="BAG" />
+            <way from="BAG" to="UPN" />
+            <way from="UPN" to="BEC" />
+            <way from="BEC" to="DAH" />
+            <way from="DAH" to="DAE" />
+            <way from="DAE" to="ELP" />
+            <way from="ELP" to="HOR" />
+            <way from="HOR" to="UPB" />
+            <way from="UPB" to="UPM" />
+            <!-- Wimbleware and Olympia -->
+            <way from="ERD" to="PAD" />
+            <way from="PAD" to="BAY" />
+            <way from="BAY" to="NHG" />
+            <way from="NHG" to="HSK" />
+            <way from="HSK" to="EAC" />
+            <way from="EAC" to="WEB" />
+            <way from="WEB" to="FUB" />
+            <way from="FUB" to="PAG" />
+            <way from="PAG" to="PUB" />
+            <way from="PUB" to="EAP" />
+            <way from="EAP" to="SOU" />
+            <way from="SOU" to="WIP" />
+            <way from="WIP" to="WIM" />
+            <way from="EAC" to="OLY" />
+
+        </line>
+        <line name="Hammersmith and City" colour="pink" level="sub-surface">
+            <way from="HMS" to="GOR" />
+            <way from="GOR" to="SBM" />
+            <way from="SBM" to="WOL" />
+            <way from="WOL" to="LAR" />
+            <way from="LAR" to="LAD" />
+            <way from="LAD" to="WSP" />
+            <way from="WSP" to="ROO" />
+            <way from="ROO" to="PAC" />
+            <way from="PAC" to="ERD" />
+            <way from="ERD" to="BAS" />
+            <way from="BAS" to="GPS" />
+            <way from="GPS" to="ESQ" />
+            <way from="ESQ" to="KIC" />
+            <way from="KIC" to="FAR" />
+            <way from="FAR" to="BAB" />
+            <way from="BAB" to="MOO" />
+            <way from="MOO" to="LIS" />
+            <way from="LIS" to="ALE" />
+            <way from="ALE" to="WHI" />
+            <way from="WHI" to="STG" />
+            <way from="STG" to="MIE" />
+            <way from="MIE" to="BWR" />
+            <way from="BWR" to="BBB" />
+            <way from="BBB" to="WHA" />
+            <way from="WHA" to="PLA" />
+            <way from="PLA" to="UPP" />
+            <way from="UPP" to="EAH" />
+            <way from="EAH" to="BAG" />            
+        </line>
+        <line name="Jubilee" colour="silver" level="deep">
+            <way from="STM" to="CPK" />
+            <way from="CPK" to="QBY" />
+            <way from="QBY" to="KBY" />
+            <way from="KBY" to="WEP" />
+            <way from="WEP" to="NDN" />
+            <way from="NDN" to="DOH" />
+            <way from="DOH" to="WIG" />
+            <way from="WIG" to="KBN" />
+            <way from="KBN" to="WHP" />
+            <way from="WHP" to="FIR" />
+            <way from="FIR" to="SWC" />
+            <way from="SWC" to="SJW" />
+            <way from="SJW" to="BAS" />
+            <way from="BAS" to="BOS" />
+            <way from="BOS" to="GRP" />
+            <way from="GRP" to="WES" />
+            <way from="WES" to="WAT" />
+            <way from="WAT" to="SWK" />
+            <way from="SWK" to="LNB" />
+            <way from="LNB" to="BMY" />
+            <way from="BMY" to="CWR" />
+            <way from="CWR" to="CYF" />
+            <way from="CYF" to="NGW" />
+            <way from="NGW" to="CGT" />
+            <way from="CGT" to="WHA" />
+            <way from="WHA" to="STR" />      
+        </line>
+        <line name="Metropolitan" colour="magenta" level="sub-surface">
+            <!-- Chesham and Amersham to Moor Park -->
+            <way from="CHE" to="CAL" />
+            <way from="AME" to="CAL" />
+            <way from="CAL" to="CHO" />
+            <way from="CHO" to="RIH" />
+            <way from="RIH" to="MOP" />
+            <!-- Watford to Moor Park -->
+            <way from="WAF" to="CRO" />
+            <way from="CRO" to="MOP" />
+            <!-- Moor Park to HOTH -->
+            <way from="MOP" to="NOD" />
+            <way from="NOD" to="NOH" />
+            <way from="NOH" to="PIN" />
+            <way from="PIN" to="NHA" />
+            <way from="NHA" to="HOH" />
+            <!-- Uxbridge to HOTH -->
+            <way from="UXB" to="HIL" />
+            <way from="HIL" to="ICK" />
+            <way from="ICK" to="RUI" />
+            <way from="RUI" to="RUM" />
+            <way from="RUM" to="EAS" />
+            <way from="EAS" to="RAL" />
+            <way from="RAL" to="WSH" />
+            <way from="WSH" to="HOH" />
+            <!-- HOTH to Aldgate -->
+            <way from="HOH" to="NOP" />
+            <way from="NOP" to="PRR" />
+            <way from="PRR" to="WEP" />
+            <way from="WEP" to="FIR" />
+            <way from="FIR" to="BAS" />
+            <way from="BAS" to="GPS" />
+            <way from="GPS" to="ESQ" />
+            <way from="ESQ" to="KIC" />
+            <way from="KIC" to="FAR" />
+            <way from="FAR" to="BAB" />
+            <way from="BAB" to="MOO" />
+            <way from="MOO" to="LIS" />
+            <way from="LIS" to="ALD" />
+        </line>
+        <line name="Northern" colour="black" level="deep">
+            <!-- High Barnet Branch -->
+            <way from="HBT" to="TOT" />
+            <way from="TOT" to="WOP" />
+            <way from="WOP" to="WFN" />
+            <way from="WFN" to="FYC" />
+            <way from="FYC" to="EFY" />
+            <way from="EFY" to="HGT" />
+            <way from="HGT" to="ACY" />
+            <way from="ACY" to="TFP" />
+            <way from="TFP" to="KSH" />
+            <way from="KSH" to="CTN" />
+            <way from="MHL" to="FYC" />
+            <!-- Edgware Branch -->
+            <way from="EGW" to="BTK" />
+            <way from="BTK" to="CND" />
+            <way from="CND" to="HCL" />
+            <way from="HCL" to="BTX" />
+            <way from="BTX" to="GGN" />
+            <way from="GGN" to="HTD" />
+            <way from="HTD" to="BZP" />
+            <way from="BZP" to="CFM" />
+            <way from="CFM" to="CTN" />
+            <!-- Charing Cross Branch -->
+            <way from="CTN" to="MTC" />
+            <way from="MTC" to="EUS" />
+            <way from="EUS" to="WAS" />
+            <way from="WAS" to="GDG" />
+            <way from="GDG" to="TCR" />
+            <way from="TCR" to="LSQ" />
+            <way from="LSQ" to="CHC" />
+            <way from="CHC" to="EMB" />
+            <way from="EMB" to="WAT" />
+            <way from="WAT" to="KNG" />
+            <!-- Bank Branch -->
+            <way from="CTN" to="EUS" />
+            <way from="EUS" to="KIC" />
+            <way from="KIC" to="AGL" />
+            <way from="AGL" to="ODS" />
+            <way from="ODS" to="MOO" />
+            <way from="MOO" to="BAN" />
+            <way from="BAN" to="LNB" />
+            <way from="LNB" to="BOR" />
+            <way from="BOR" to="ELC" />
+            <way from="ELC" to="KNG" />
+            <!-- Morden Branch -->
+            <way from="KNG" to="OVL" />
+            <way from="OVL" to="STO" />
+            <way from="STO" to="CPN" />
+            <way from="CPN" to="CPC" />
+            <way from="CPC" to="CPS" />
+            <way from="CPS" to="BLM" />
+            <way from="BLM" to="TBC" />
+            <way from="TBC" to="TBY" />
+            <way from="TBY" to="CSD" />
+            <way from="CSD" to="SWN" />
+            <way from="SWN" to="MDN" />
+            <!-- Northern Line Extension -->
+            <way from="KNG" to="NIE" />
+            <way from="NIE" to="BAT" />
+        </line>
+        <line name="Piccadilly" colour="dark blue" level="deep">
+            <!-- Uxbridge to Cockfosters -->
+            <way from="UXB" to="HIL" />
+            <way from="HIL" to="ICK" />
+            <way from="ICK" to="RUI" />
+            <way from="RUI" to="RUM" />
+            <way from="RUM" to="EAS" />
+            <way from="EAS" to="RAL" />
+            <way from="RAL" to="SHH" />
+            <way from="SHH" to="SUH" />
+            <way from="SUH" to="SUT" />
+            <way from="SUT" to="ALP" />
+            <way from="ALP" to="PKR" />
+            <way from="PRK" to="NOE" />
+            <way from="NOE" to="ECO" />
+            <way from="ECO" to="ACT" />
+            <way from="ACT" to="TUG" />
+            <way from="TUG" to="HMD" />
+            <way from="HMD" to="BAC" />
+            <way from="BAC" to="EAC" />
+            <way from="EAC" to="GLR" />
+            <way from="GLR" to="SOK" />
+            <way from="SOK" to="KNB" />
+            <way from="KNB" to="HPC" />
+            <way from="HPC" to="GRP" />
+            <way from="GRP" to="PIC" />
+            <way from="PIC" to="LSQ" />
+            <way from="LSQ" to="CGN" />
+            <way from="CGN" to="HOL" />
+            <way from="HOL" to="RSQ" />
+            <way from="RSQ" to="KIC" />
+            <way from="KIC" to="PAL" />
+            <way from="PAL" to="HWY" />
+            <way from="HWY" to="ASL" />
+            <way from="ASL" to="FIP" />
+            <way from="FIP" to="MRH" />
+            <way from="MRH" to="TPN" />
+            <way from="TPN" to="WOG" />
+            <way from="WOG" to="BDS" />
+            <way from="BDS" to="ASG" />
+            <way from="ASG" to="SGT" />
+            <way from="SGT" to="OAK" />
+            <way from="OAK" to="CKS" />
+            <!-- Acton Town to Heathrow -->
+            <way from="ACT" to="SOE" />
+            <way from="SOE" to="NFD" />
+            <way from="NFD" to="BOM" />
+            <way from="BOM" to="OSY" />
+            <way from="OSY" to="HWE" />
+            <way from="HWE" to="HWC" />
+            <way from="HWC" to="HWW" />
+            <way from="HWW" to="HNX" />
+            <way from="HNX" to="HRC" />
+            <way from="HRC" to="HRV" />
+            <!-- Terminal 4 loop -->
+            <way from="HNX" to="HIV" />
+            <way from="HIV" to="HRC" />
+        </line>
+        <line name="Victoria" colour="light blue" level="deep">
+            <way from="WAC" to="BLR" />
+            <way from="BLR" to="THA" />
+            <way from="THA" to="SES" />
+            <way from="SES" to="FIP" />
+            <way from="FIP" to="HII" />
+            <way from="HII" to="KIC" />
+            <way from="KIC" to="EUS" />
+            <way from="EUS" to="WAS" />
+            <way from="WAS" to="OXC" />
+            <way from="OXC" to="GRP" />
+            <way from="GRP" to="VIC" />
+            <way from="VIC" to="PIM" />
+            <way from="PIM" to="VAU" />
+            <way from="VAU" to="STO" />
+            <way from="STO" to="BRI" />
+        </line>
+        <line name="Waterloo and City" colour="turquoise" level="deep">
+            <way from="WAT" to="BAN" />
+        </line>
+    </lines>
+</tube>
